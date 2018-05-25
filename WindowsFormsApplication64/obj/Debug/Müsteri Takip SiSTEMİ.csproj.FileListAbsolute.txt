@@ -1,0 +1,61 @@
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.IKINCICARI.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERIHAREKETLERI.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.ILKCARIHRK.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.SIFREONAYI.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.KULLANICILAR.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERI.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Müşteri_Ekle.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Properties.Resources.resources
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csproj.GenerateResource.Cache
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe.config
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.pdb
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\SplitButton.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.exe
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.pdb
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csprojResolveAssemblyReference.cache
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe.config
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.pdb
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csprojResolveAssemblyReference.cache
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.IKINCICARI.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERIHAREKETLERI.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.ILKCARIHRK.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERI.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.SIFREONAYI.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.KULLANICILAR.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Müşteri_Ekle.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Properties.Resources.resources
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csproj.GenerateResource.Cache
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.exe
+D:\C# Projeler\Visual Studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.pdb
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe.config
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.exe
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.pdb
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.pdb
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csprojResolveAssemblyReference.cache
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.IKINCICARI.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERIHAREKETLERI.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.ILKCARIHRK.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERI.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.SIFREONAYI.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.KULLANICILAR.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Müşteri_Ekle.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Properties.Resources.resources
+D:\Program\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csproj.GenerateResource.Cache
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe.config
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.exe
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.pdb
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.pdb
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csprojResolveAssemblyReference.cache
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.IKINCICARI.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERIHAREKETLERI.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.ILKCARIHRK.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.MUSTERI.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.SIFREONAYI.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.KULLANICILAR.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Müşteri_Ekle.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Properties.Resources.resources
+C:\Users\ydemi\Desktop\Visual Studio\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\Müsteri Takip SiSTEMİ.csproj.GenerateResource.Cache

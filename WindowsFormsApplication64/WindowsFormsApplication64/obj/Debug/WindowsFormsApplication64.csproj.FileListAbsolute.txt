@@ -1,0 +1,11 @@
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe.config
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\bin\Debug\WindowsFormsApplication64.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Form1.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Properties.Resources.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.csproj.GenerateResource.Cache
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Form2.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\WindowsFormsApplication64\WindowsFormsApplication64\obj\Debug\WindowsFormsApplication64.Giris.resources

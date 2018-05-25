@@ -1,0 +1,41 @@
+ private void MüþteriUpdate_Click(object sender, EventArgs e)
+        {
+            //Müþteri Sil
+            //MüsteriKartý y = new MüsteriKartý();
+            //Müþteri_Ekle x = new Müþteri_Ekle();
+            //int secilialan = dataGridView1.SelectedCells[0].RowIndex;
+            //string ad = dataGridView1.Rows[secilialan].Cells[1].Value.ToString();
+            //string VergiD = dataGridView1.Rows[secilialan].Cells[2].Value.ToString();
+            //string VergiN = dataGridView1.Rows[secilialan].Cells[3].Value.ToString();
+            //string Telefon = dataGridView1.Rows[secilialan].Cells[4].Value.ToString();
+            //string Fax = dataGridView1.Rows[secilialan].Cells[5].Value.ToString();
+            //string Cep = dataGridView1.Rows[secilialan].Cells[6].Value.ToString();
+            //string Adress = dataGridView1.Rows[secilialan].Cells[7].Value.ToString();
+            //string Sehir = dataGridView1.Rows[secilialan].Cells[8].Value.ToString();
+            //string Email = dataGridView1.Rows[secilialan].Cells[9].Value.ToString();
+            //string Cinsiyet = dataGridView1.Rows[secilialan].Cells[10].Value.ToString();
+            //string Resim = dataGridView1.Rows[secilialan].Cells[11].Value.ToString();
+            //string Durumu = dataGridView1.Rows[secilialan].Cells[12].Value.ToString();
+            //string Borcu = dataGridView1.Rows[secilialan].Cells[13].Value.ToString();
+
+            //y.txtad.Text = ad;
+            //y.txtvergid.Text = VergiD;
+            //y.txtvergino.Text = VergiN;
+            //y.txttelefon.Text = Telefon;
+            //y.txtfax.Text = Fax;
+            //y.TxtCep.Text = Cep;
+            //y.richadress.Text = Adress;
+            //y.txtSehir.Text = Sehir;
+            //y.txtemail.Text = Email;
+            //y.txtResimYolu.Text = Resim;
+
+
+            //if (dataGridView1.Rows[secilialan].Cells[10].Value.ToString() == "Bay") { y.radiobay.Checked = true; }
+            //else if (dataGridView1.Rows[secilialan].Cells[10].Value.ToString() == "Bayan") { y.radioBayan.Checked = true; }
+            //if (dataGridView1.Rows[secilialan].Cells[14].Value.ToString() == "Borçlu") { y.radioborclu.Checked = true; }
+            //else if (dataGridView1.Rows[secilialan].Cells[14].Value.ToString() == "Alacaklý") { y.radioalacaklý.Checked = true; }
+            //if(dataGridView1.Rows[secilialan].Cells[12].Value.ToString()=="Aktif") { y.combodurumu.Text = "Aktif"; }
+
+            //y.ShowDialog();
+
+        }
